@@ -1,18 +1,25 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F014967&count_bg=%23001FFF&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-### Hi there 👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=014967&show_icons=true&theme=radical)
-<!--
-**014967/014967** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div align="center">
+<img hight="400" width="400" alt="GIF" align="center" src="https://user-images.githubusercontent.com/62296097/217197248-32c0c7f2-c925-48a7-8bba-0080a129609c.gif">
+</div>
+</br>
+</br>
+<h1 class = "jua"> This is Me : </h1>
+</br>
+<span class="jua"> I'm 27 years  old, Android Developer in Korea.
+</span>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</br>
+
+<h3 class ="jua"> How to communicate with me : </h3>
+<li class="jua"> Coming Mash-Up Android</li>
+<li class="jua"> Coming Tistory Blog : https://kimdaq.tistory.com/ </li>
+<li class="jua"> Or boris08156@gmail.com </li>
+
+
+
+</br>
+</br>
+</br>
